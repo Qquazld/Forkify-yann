@@ -2,7 +2,9 @@
 
 [![forkify-yann](src/img/logo.png)](https://forkify-yann.netlify.app)
 
-Forkify is a web application for finding and saving recipes. It interacts with the Forkify API to fetch recipe data and allows users to search for recipes, view recipe details, save favorites (only in the browser with localStorage), and even upload their own recipes (with Forkify's personal API key).
+\_ _Please click on the logo to view the Forkify project demo_ \_
+
+**Forkify** is a web application for finding and saving recipes. It interacts with the **Forkify API** to fetch recipe data and allows users to search for recipes, view recipe details, save favorites (only in the browser with localStorage), and even upload their own recipes (with Forkify's personal API key).
 
 ## Technologies Used
 
@@ -39,7 +41,7 @@ const KEY = 'ENTER YOUR API';
 
 ## Credits
 
-This project was created as part of the JavaScript course by Jonas Schmedtmann on Udemy. Special thanks to Jonas for the inspiration and guidance throughout the development process.
+This project was created as part of the JavaScript course by **Jonas Schmedtmann** on Udemy. **Special thanks to Jonas for the inspiration and guidance throughout the development process**.
 
 ## License
 

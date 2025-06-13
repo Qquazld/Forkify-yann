@@ -24,6 +24,10 @@ Clone this repo:
 git clone https://github.com/Qquazld/Forkify-yann.git
 ```
 
+```shell
+cd Forkify-yann
+```
+
 Install dependencies:
 
 ```shell

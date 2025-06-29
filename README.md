@@ -1,6 +1,7 @@
 # forkify Project
 
-[![forkify-yann](src/img/logo.png)](https://forkify-yann.netlify.app)
+[![Forkify Screenshot](https://raw.githubusercontent.com/Qquazld/Forkify-yann/main/src/img/Forkify.png)](https://forkify-yann.netlify.app)
+
 
 _Please click on the logo to view the Forkify project demo_
 
